@@ -1,0 +1,18 @@
+# Virtual environment
+rag_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector databases
+database/
+
+# PDF data
+data/
+
+# macOS files
+.DS_Store
